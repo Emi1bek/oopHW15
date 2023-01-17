@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class ITcourse {
+public class ITcourse extends Course{
+
+    public ITcourse(int id, String teacherName, String studentName) {
+        super(id, teacherName, studentName);
+    }
+
+    public ITcourse() {
+    }
 }
