@@ -19,7 +19,7 @@ public class Course {
         if (studentName.isEmpty()){
             System.out.println("Error 404!");
         }else {
-            this.studentName = teacherName;
+            this.studentName = studentName;
         }
     }
 
