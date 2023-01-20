@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a077f95c-f2c5-4732-a3a4-b08930f8c542" name="Changes" comment="commt1">
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Dancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Singer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/two/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/Dancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/one/Dancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/one/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/one/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/one/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/Singer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/one/Singer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.oopObject.Main">
+  <component name="RunManager" selected="Application.oopObject.one.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW15.Main" />
       <module name="oopHW15" />
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oopObject.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopObject.Main" />
+    <configuration name="oopObject.one.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopObject.one.Main" />
       <module name="oopHW15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopObject.*" />
+          <option name="PATTERN" value="oopObject.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,7 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.oopObject.Main" />
+        <item itemvalue="Application.oopObject.one.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -93,7 +93,7 @@
       <workItem from="1673978715204" duration="1411000" />
       <workItem from="1674143119391" duration="1106000" />
       <workItem from="1674159356482" duration="1156000" />
-      <workItem from="1674232882881" duration="1313000" />
+      <workItem from="1674232882881" duration="1851000" />
     </task>
     <task id="LOCAL-00001" summary="commt">
       <created>1673979770725</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674160444824</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commt1">
+      <created>1674235258097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674235258097</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

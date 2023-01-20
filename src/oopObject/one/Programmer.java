@@ -1,4 +1,4 @@
-package oopObject;
+package oopObject.one;
 
 public class Programmer extends Person{
     @Override
