@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a077f95c-f2c5-4732-a3a4-b08930f8c542" name="Changes" comment="commt1">
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/Salesman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/TaxiDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/four/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/thtree/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/thtree/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/thtree/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/thtree/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/thtree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopObject/thtree/Sheep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopObject/two/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/two/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/two/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/two/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.oopObject.two.Main">
+  <component name="RunManager" selected="Application.oopObject.four.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW15.Main" />
       <module name="oopHW15" />
@@ -58,12 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oopObject.four.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopObject.four.Main" />
+      <module name="oopHW15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopObject.four.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="oopObject.one.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oopObject.one.Main" />
       <module name="oopHW15" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oopObject.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oopObject.thtree.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopObject.thtree.Main" />
+      <module name="oopHW15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopObject.thtree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,6 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oopObject.four.Main" />
+        <item itemvalue="Application.oopObject.thtree.Main" />
         <item itemvalue="Application.oopObject.two.Main" />
         <item itemvalue="Application.oopObject.one.Main" />
         <item itemvalue="Application.Main" />
@@ -103,7 +146,11 @@
       <workItem from="1673978715204" duration="1411000" />
       <workItem from="1674143119391" duration="1106000" />
       <workItem from="1674159356482" duration="1156000" />
-      <workItem from="1674232882881" duration="4480000" />
+      <workItem from="1674232882881" duration="4673000" />
+      <workItem from="1674318704979" duration="280000" />
+      <workItem from="1674487964968" duration="2567000" />
+      <workItem from="1674496298010" duration="4154000" />
+      <workItem from="1674578301679" duration="4381000" />
     </task>
     <task id="LOCAL-00001" summary="commt">
       <created>1673979770725</created>
@@ -140,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674236985889</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commt1">
+      <created>1674238457797</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674238457797</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
