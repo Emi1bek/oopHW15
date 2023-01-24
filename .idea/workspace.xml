@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a077f95c-f2c5-4732-a3a4-b08930f8c542" name="Changes" comment="commt1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopObject/four/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/four/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopObject/four/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/four/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oopObject/thtree/Farm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/thtree/Farm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oopObject/thtree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/thtree/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +135,7 @@
       <workItem from="1674318704979" duration="280000" />
       <workItem from="1674487964968" duration="2567000" />
       <workItem from="1674496298010" duration="4154000" />
-      <workItem from="1674578301679" duration="7799000" />
+      <workItem from="1674578301679" duration="8154000" />
     </task>
     <task id="LOCAL-00001" summary="commt">
       <created>1673979770725</created>
@@ -189,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674582730963</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commt1">
+      <created>1674586229346</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674586229346</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

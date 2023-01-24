@@ -46,20 +46,22 @@ public class Main {
         Horse[] horses2 = {horses[1],horses[2]};
         Sheep[] sheeps1 = {sheeps[1],sheeps[2],sheeps[3]};
 
-        Cow[] cows2 = {cows[5]};
-        Horse[] horses1 = {horses[2]};
-        Sheep[] sheeps2 = {sheeps[3]};
+        Cow[] cows2 = {cows[0]};
+        Horse[] horses1 = {horses[0]};
+        Sheep[] sheeps2 = {sheeps[0]};
 
 
 
         Farm farm = new Farm("Тургунбай Садыков 1б,2",cows3,  horses2,  sheeps1, "кашка" );
-        Farm farm2 = new Farm("Тургунбай Садыков 1б,2",cows2,  horses1,  sheeps2, "кашка" );
+        Farm farm2 = new Farm("Малыгина  1б,2",cows2,  horses1,  sheeps2, "кашка2" );
 
 
 
 
         System.out.println(farm);
+        System.out.println("Конец фарм ");
         System.out.println(farm2);
+        System.out.println("Конец фарм2 ");
     }
 
 }
