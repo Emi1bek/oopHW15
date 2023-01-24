@@ -41,9 +41,25 @@ public class Main {
         }
 
         System.out.println(cows[1]);
-      //  Farm farm =new Farm("sda",new Animal[] = new Cow {cows[1],cows[2],cows[3]}, new Horse[2], new Sheep[2], "asd" );
 
-       // System.out.println(farm);
+        Cow[] cows3 = {cows[1],cows[2],cows[3],cows[4],cows[5]};
+        Horse[] horses2 = {horses[1],horses[2]};
+        Sheep[] sheeps1 = {sheeps[1],sheeps[2],sheeps[3]};
+
+        Cow[] cows2 = {cows[5]};
+        Horse[] horses1 = {horses[2]};
+        Sheep[] sheeps2 = {sheeps[3]};
+
+
+
+        Farm farm = new Farm("Тургунбай Садыков 1б,2",cows3,  horses2,  sheeps1, "кашка" );
+        Farm farm2 = new Farm("Тургунбай Садыков 1б,2",cows2,  horses1,  sheeps2, "кашка" );
+
+
+
+
+        System.out.println(farm);
+        System.out.println(farm2);
     }
 
 }

@@ -4,12 +4,12 @@ import java.util.Arrays;
 
 public class Farm {
     private String address;
-    private Animal[] cows;
-    private Animal[] horses;
-    private Animal[] sheep;
+    private Cow[] cows;
+    private Horse[] horses;
+    private Sheep[] sheep;
     private String  ownerName;
 
-    public Farm(String address, Animal[] cows, Animal[] horses, Animal[] sheep, String ownerName) {
+    public Farm(String address, Cow[] cows, Horse[] horses, Sheep[] sheep, String ownerName) {
         this.address = address;
         this.cows = cows;
         this.horses = horses;
@@ -31,10 +31,10 @@ public class Farm {
     @Override
     public String toString() {
         return "Farm{" +
-                "address='" + address + '\'' +
-                ", cows=" + Arrays.toString(cows) +
-                ", horses=" + Arrays.toString(horses) +
-                ", sheep=" + Arrays.toString(sheep) +
+                "address='" + address + '\'' +"\n"+
+                ", cows=" + Arrays.toString(cows) +"\n"+
+                ", horses=" + Arrays.toString(horses) + "\n"+
+                ", sheep=" + Arrays.toString(sheep) +"\n"+
                 ", ownerName='" + ownerName + '\'' +
                 '}';
     }

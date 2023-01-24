@@ -1,10 +1,10 @@
 package oopObject.four;
 
 public class Bus extends Transport{
-    private String nameDriver;
+    private Driver nameDriver;
     private String nameSaleman;
 
-    public Bus(int id, int yearOfIssue, String color, String nameDriver, String nameSaleman) {
+    public Bus(int id, int yearOfIssue, String color, Driver nameDriver, String nameSaleman) {
         super(id, yearOfIssue, color);
         this.nameDriver = nameDriver;
         this.nameSaleman = nameSaleman;
@@ -14,11 +14,11 @@ public class Bus extends Transport{
         super(id, yearOfIssue, color);
     }
 
-    public String  getNameDriver() {
+    public Driver  getNameDriver() {
         return nameDriver;
     }
 
-    public void setNameDriver(String nameDriver) {
+    public void setNameDriver(Driver nameDriver) {
         this.nameDriver = nameDriver;
     }
 
