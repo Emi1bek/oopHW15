@@ -10,6 +10,6 @@ public class Hostel extends Flat implements FlatInterface{
 
     @Override
     public void method() {
-        System.out.println("tip: "+getTip() + " room: "+getRoom()+" area: "+getArea()+"addres: "+ getAddres());
+        System.out.println("tip: "+getTip() + " room: "+getRoom()+" area: "+getArea()+"addres: "+ getAddres()+" Вы плотите за аренду!");
     }
 }

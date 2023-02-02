@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a077f95c-f2c5-4732-a3a4-b08930f8c542" name="Changes" comment="commt1">
-      <change afterPath="$PROJECT_DIR$/src/oopObject/HW18/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/HW18/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/HW18/Flat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/HW18/FlatInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/HW18/Hostel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/HW18/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/HW18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Swimable/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Swimable/Shark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Swimable/Swimable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/Swimable/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/six/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/six/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/six/Huntable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/six/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/six/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/six/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopObject/six/Вear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/HW18/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/HW18/Apartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/HW18/Hostel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/HW18/Hostel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopObject/HW18/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopObject/HW18/Hotel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +139,7 @@
       <workItem from="1674487964968" duration="2567000" />
       <workItem from="1674496298010" duration="4154000" />
       <workItem from="1674578301679" duration="8496000" />
-      <workItem from="1675357211544" duration="6451000" />
+      <workItem from="1675357211544" duration="6690000" />
     </task>
     <task id="LOCAL-00001" summary="commt">
       <created>1673979770725</created>
@@ -219,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674586594545</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commt1">
+      <created>1675363767305</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675363767305</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
